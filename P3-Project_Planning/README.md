@@ -8,12 +8,15 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+   - WireFrame Versions
+          - ![WireFrame_v1.5](https://user-images.githubusercontent.com/74875211/116819715-d086a200-ab36-11eb-928e-c0cf3fb5a134.png)
+          - ![WireFrame_v2.0](https://user-images.githubusercontent.com/74875211/116819735-f449e800-ab36-11eb-8fd1-20b33e261aa5.png)
+          - ![WireFrame_v2.5](https://user-images.githubusercontent.com/74875211/116819744-ff9d1380-ab36-11eb-94a9-1edc4eb36fa7.png)
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/IpxhLdKk/countries-api
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/eh-git-hub/countryAPI
