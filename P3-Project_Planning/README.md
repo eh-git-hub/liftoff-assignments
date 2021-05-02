@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-   - WireFrame Versions
+   - WireFrame Versions:
          - WireFrame v1.5 
          - ![WireFrame_v1.5](https://user-images.githubusercontent.com/74875211/116819715-d086a200-ab36-11eb-928e-c0cf3fb5a134.png)
          - WireFrame v2.0
