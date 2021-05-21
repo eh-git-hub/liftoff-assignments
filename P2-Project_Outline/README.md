@@ -22,7 +22,7 @@ Score: Application should keep track of the score.
 HTML
 JavaScript
 CSS
-API's
+RESTFUL API's
 
 ### What I'll Have to Learn
 I will have to refresh HTML, JavaScript, CSS, Trello, and working with API's.
